@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "QuébeChine"
+    "liveServer.settings.multiRootWorkspaceName": "QuébeChine",
+    "git.ignoreLimitWarning": true
 }
